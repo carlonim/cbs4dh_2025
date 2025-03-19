@@ -6,3 +6,10 @@ The quick brown fox jumps over the lazy dog
 
 Noch eine Zeile, diesmal ohne Formatierungen
 
+
+       __
+     <(o )___
+      (  ._> /
+       `----'
+
+       Quak
